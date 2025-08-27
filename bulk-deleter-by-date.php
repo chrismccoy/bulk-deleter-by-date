@@ -3,7 +3,7 @@
  * Plugin Name:       Bulk Deleter by Date
  * Plugin URI:        https://github.com/chrismccoy/bulk-deleter-by-date
  * Description:       Deletes comments or attachments within a specified date range.
- * Version:           1.0
+ * Version:           1.0.0
  * Author:            Chris McCoy
  * Author URI:        https://github.com/chrismccoy
  * License:           GPL v2 or later
@@ -32,7 +32,7 @@ final class Bulk_Deleter_By_Date {
 	 * The plugin version number.
 	 *
 	 */
-	private const VERSION = '2.2.0';
+	private const VERSION = '1.0.0';
 
 	/**
 	 * The menu slug for the admin page.
