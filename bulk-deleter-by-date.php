@@ -135,12 +135,10 @@ final class Bulk_Deleter_By_Date {
 									</p>
 									<div class="bdd-flex-container">
 										<div class="bdd-date-field-wrapper">
-											<label><?php esc_html_e( 'Start Date', 'bulk-deleter-by-date' ); ?></label>
 											<div id="bdd-start-date-container"></div>
 											<input type="hidden" id="bdd-start-date" name="start_date">
 										</div>
 										<div class="bdd-date-field-wrapper">
-											<label><?php esc_html_e( 'End Date', 'bulk-deleter-by-date' ); ?></label>
 											<div id="bdd-end-date-container"></div>
 											<input type="hidden" id="bdd-end-date" name="end_date">
 										</div>
